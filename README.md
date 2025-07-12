@@ -44,11 +44,14 @@ This project performs sentiment analysis on real user reviews of ChatGPT. It inc
     ```
 
 ## 📸 Output Samples
+### 📊 Sentiment Distribution
+![Sentiment Distribution](screenshots/sentiment_distribution.png)
 
-- Confusion Matrix  
-- Sentiment Bar Chart  
-- Word Cloud
+### ☁️ Word Cloud
+![Word Cloud](screenshots/wordcloud.png)
 
+### 🧩 Confusion Matrix
+![Confusion Matrix](screenshots/confusion_matrix.png)
 ## 📜 License
 MIT
 
